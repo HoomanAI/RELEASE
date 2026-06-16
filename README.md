@@ -6,6 +6,10 @@ EvoAgent is a general-purpose reinforcement learning framework that dynamically 
 
 Unlike traditional evolutionary algorithms that rely on fixed parameter settings, EvoAgent continuously learns from previous search experiences and adapts its behavior online to improve optimization performance, avoid premature convergence, and enhance solution quality.
 
+ <img src="figures/RELEASE_QGA.png" width="800">
+</p>
+
+
 ---
 
 ## Overview
@@ -87,5 +91,4 @@ EvoAgent can be integrated with:
 
 
 
-  <img src="figures/EvoAgent_Framework.png" width="800">
-</p>
+ 
