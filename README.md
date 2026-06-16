@@ -1,6 +1,6 @@
 # REKEASE (EvoAgent)
 
-## A Reinforcement Learning Agent for Adaptive Evolutionary Search
+## RELEASE: Reinforcement Learning for Adaptive Strategy Selection in Evolutionary Algorithms
 
 EvoAgent is a general-purpose reinforcement learning framework that dynamically controls evolutionary algorithms through intelligent strategy selection. The framework employs a learning agent to adaptively choose evolutionary operators and hyperparameter configurations based on the current state of the optimization process, enabling an effective balance between exploration and exploitation.
 
