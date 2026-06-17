@@ -30,7 +30,7 @@ The framework is designed to be independent of any specific evolutionary algorit
 
 ## Key Features
 
-- Reinforcement learning-based search control
+- Reinforcement learning-based Agent
 - Adaptive operator selection
 - Dynamic hyperparameter tuning
 - Exploration and exploitation balancing
